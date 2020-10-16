@@ -1,0 +1,44 @@
+[
+    {
+        "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
+        "name": "MaJang",
+        "introduction": "I am not a master, just looking for the master's footsteps.",
+        "url": "http://luokangyuan.com/",
+        "title": "Read More"
+    },
+    {
+        "avatar": "http://image.luokangyuan.com/4027734.jpeg",
+        "name": "Blinkfox",
+        "introduction": "Hello, I'm blinkfox, I like programming.",
+        "url": "https://blinkfox.github.io/",
+        "title": "Visit Blog"
+    },
+    {
+        "avatar": "http://image.luokangyuan.com/avatar.jpg",
+        "name": "ja_rome",
+        "introduction": "Ordinary steps can also go out of the great journey.",
+        "url": "https://me.csdn.net/jlh912008548",
+        "title": "Read More"
+    },
+    {
+        "avatar": "https://s.gravatar.com/avatar/d8fdf908ef4641679f024dcc89be406b?s=80&r=g",
+        "name": "WHOAMI",
+        "introduction": "人老心♥不老！.",
+        "url": "https://gitaczero.github.io/",
+        "title": "Read More"
+    },
+    {
+        "avatar": "https://cdn.jsdelivr.net/gh/small-rose/small-rose.github.io/medias/logo-3.png",
+        "name": "WHOAMI",
+        "introduction": "路行虽远，恒则必至。事情虽小，不做不成。",
+        "url": "https://zhangxiaocai.cn/",
+        "title": "Read More"
+    },
+    {
+        "avatar": "https://hunterx.xyz/images/avatar.jpg",
+        "name": "HunterX",
+        "introduction": "腾讯大佬，一个励志影响世界的大佬。",
+        "url": "https://hunterx.xyz/",
+        "title": "Read More"
+    }
+]
